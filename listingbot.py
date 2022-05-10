@@ -6,7 +6,7 @@ from pyautogui import click, displayMousePosition, typewrite
 
 
 
-bedrag = input("Sell value (0.25) example)").lower()
+
 
 start = input("Wil je de bot starten? y/n:").lower()
 if start == "y":
